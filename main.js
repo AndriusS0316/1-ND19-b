@@ -1,4 +1,4 @@
-// devyniolikta a uzduotis
+// devyniolikta b uzduotis
 
 
 
@@ -6,4 +6,4 @@ function time() {
   // your code goes here
 }
 
-time();
+time(3, 5);
